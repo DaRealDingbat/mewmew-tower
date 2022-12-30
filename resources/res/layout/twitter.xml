@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/rootView" android:background="#ff000000" android:layout_width="480px" android:layout_height="800px">
+    <FrameLayout android:layout_gravity="center" android:background="@drawable/info_bg" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="0px" android:layout_marginTop="0px">
+        <LinearLayout android:layout_gravity="top" android:id="@+id/twLayout" android:layout_width="435px" android:layout_height="665px" android:layout_marginLeft="23px" android:layout_marginTop="110px">
+            <WebView android:layout_gravity="top" android:id="@+id/twWebView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0px" android:layout_marginTop="0px"/>
+        </LinearLayout>
+        <Button android:layout_gravity="top" android:id="@+id/ibPlay" android:background="@drawable/info_back_g" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="420px" android:layout_marginTop="60px" android:onClick="onClickPlay"/>
+    </FrameLayout>
+</FrameLayout>

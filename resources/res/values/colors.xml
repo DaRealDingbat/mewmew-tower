@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#888888</color>
+    <color name="text_blrcolor">#0088ff</color>
+    <color name="text_color">#000099</color>
+    <color name="text_rcolor">#ff0000</color>
+    <color name="text_bcolor">#ffffff</color>
+    <color name="text_wcolor">#000000</color>
+    <color name="background_color_trans">#045507</color>
+    <color name="label_color">#333333</color>
+</resources>

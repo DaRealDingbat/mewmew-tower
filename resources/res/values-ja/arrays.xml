@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="agelists">
+        <item>10～13歳</item>
+        <item>14～16歳</item>
+        <item>17～19歳</item>
+        <item>20～22歳</item>
+        <item>23～25歳</item>
+        <item>26～28歳</item>
+        <item>29～31歳</item>
+        <item>32～34歳</item>
+        <item>35～37歳</item>
+        <item>38～40歳</item>
+        <item>41～43歳</item>
+        <item>44～46歳</item>
+        <item>47～49歳</item>
+        <item>50～52歳</item>
+        <item>53～55歳</item>
+        <item>56～58歳</item>
+        <item>59～61歳</item>
+        <item>62～64歳</item>
+        <item>65～67歳</item>
+        <item>68～70歳</item>
+        <item>70歳以上</item>
+    </array>
+    <array name="occupationlists">
+        <item>学生</item>
+        <item>お勤め</item>
+        <item>主婦</item>
+        <item>その他</item>
+    </array>
+</resources>

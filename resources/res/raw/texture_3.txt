@@ -1,0 +1,1 @@
+anime_wait_05.png,0,0,500,350,anime_wait_06.png,500,0,500,350,anime_wait_07.png,0,350,500,350,anime_wait_08.png,500,350,500,350,debu_p01_03.png,0,700,350,211,debu_p01_06-momo.png,350,700,350,211,kikyu.png,700,700,161,307,retry2p_off.png,861,700,106,240,

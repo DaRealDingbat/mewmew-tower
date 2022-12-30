@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:id="@+id/rootView" android:background="#ff000000" android:layout_width="800px" android:layout_height="1280px">
+    <FrameLayout android:layout_gravity="center" android:id="@+id/gminiFRM" android:layout_width="match_parent" android:layout_height="match_parent">
+        <SurfaceView android:layout_gravity="top" android:id="@+id/gminiView" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <Button android:layout_gravity="top" android:id="@+id/bgmminiRETRY" android:background="@drawable/rec_retry_mini" android:visibility="gone" android:layout_width="106px" android:layout_height="240px" android:layout_marginLeft="176px" android:layout_marginTop="280px" android:onClick="onClick"/>
+        <Button android:layout_gravity="top" android:id="@+id/bgmminiTOP" android:background="@drawable/top_mini" android:visibility="gone" android:layout_width="99px" android:layout_height="166px" android:layout_marginLeft="336px" android:layout_marginTop="320px" android:onClick="onClick"/>
+    </FrameLayout>
+</FrameLayout>

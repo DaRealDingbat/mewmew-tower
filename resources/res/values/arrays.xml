@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="agelists">
+        <item>10～13years</item>
+        <item>14～16years</item>
+        <item>17～19years</item>
+        <item>20～22years</item>
+        <item>23～25years</item>
+        <item>26～28years</item>
+        <item>29～31years</item>
+        <item>32～34years</item>
+        <item>35～37years</item>
+        <item>38～40years</item>
+        <item>41～43years</item>
+        <item>44～46years</item>
+        <item>47～49years</item>
+        <item>50～52years</item>
+        <item>53～55years</item>
+        <item>56～58years</item>
+        <item>59～61years</item>
+        <item>62～64years</item>
+        <item>65～67years</item>
+        <item>68～70years</item>
+        <item>70years over</item>
+    </array>
+    <array name="occupationlists">
+        <item>Student</item>
+        <item>Employee</item>
+        <item>Homemaker</item>
+        <item>Other</item>
+    </array>
+</resources>
